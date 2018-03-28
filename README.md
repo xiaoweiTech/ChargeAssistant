@@ -7,6 +7,6 @@
 - 【密码保护】保护您的个人隐私
 - 【历史记录】查询每一笔支出，汇总每月结余，清楚掌握财产动态
 
-!()[]
+![](https://github.com/xiaoweiTech/ChargeAssistant/blob/master/preview.png)
 
 主要用CoreData实现数据的持久本地化保存  
